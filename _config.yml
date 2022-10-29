@@ -19,7 +19,7 @@ github_username:    jxqt
 twitter_username:   xqtmt
 
 
-# Build settings
+Build settings:      5
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
