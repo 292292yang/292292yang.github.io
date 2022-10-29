@@ -1,7 +1,7 @@
 Hux Blog
 ========
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)  
+### [View Live Hux Blog &rarr;](https://jxqt.github.io/)  
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
