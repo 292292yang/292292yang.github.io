@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     zjkgf
-zhihu_username:     rpza
+weibo_username:     rpza
+zhihu_username:     zjkgf
 github_username:    jxqt
 twitter_username:   xqtmt
 #facebook_username:  
@@ -103,9 +103,9 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "wp",
-    #     href: "http://sj.ysupan.com/zjkgf"
-    # },{
+      title: "wpys168",
+      href: "http://sj.ysupan.com/zjkgf"
+    },{
         title: "k1314",
         href: "https://v.kuaishou.com/xgauhm"
     },{
@@ -128,7 +128,7 @@ friends: [
         href: "https://www.github.com/"
     },{
         title: "Jxqt",
-        href: "https://ksirq.github.io/"
+        href: "https://jxqt.github.io/"
     },{
         title: "google mail",
         href: "https://mail.google.com"
